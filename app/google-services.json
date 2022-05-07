@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497920006792",
+    "project_id": "firestore-coroutines-60429",
+    "storage_bucket": "firestore-coroutines-60429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497920006792:android:94c31155af6afb1de39d3d",
+        "android_client_info": {
+          "package_name": "com.example.firestorecoroutines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497920006792-5vfpp4kikk82rnnclo5fr32lblaofkp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNq6TsyhVtopCitXcbpfI4d7m6XgfTrHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497920006792-5vfpp4kikk82rnnclo5fr32lblaofkp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
